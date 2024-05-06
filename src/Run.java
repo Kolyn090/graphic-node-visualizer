@@ -18,7 +18,7 @@ public class Run {
          */
 
         try {
-            File file = new File("src/GraphFile");
+            File file = new File("lib/GraphFile");
             Scanner scanner = new Scanner(file);
             GraphicGraph graph = new GraphicGraph();
 
